@@ -5,7 +5,7 @@ import java.time.Clock;
  */
 public class Main {
     public  static void main(String[] args){
-        BookShelf bookShelf = new BookShelf(4);
+        BookShelf bookShelf = new BookShelf();
         bookShelf.appendBook(new Book("a"));
         bookShelf.appendBook(new Book("b"));
         bookShelf.appendBook(new Book("c"));
