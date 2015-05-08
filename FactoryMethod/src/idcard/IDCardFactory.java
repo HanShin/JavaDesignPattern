@@ -18,7 +18,7 @@ public class IDCardFactory extends Factory {
     }
 
     @Override
-    protected void registerProduct(Product product) {
+    protected synchronized void registerProduct(Product product) {
         IDCard card = (IDCard)product;
         database.put(new Integer(card.getSerial()),card.getOwner() );
     }
