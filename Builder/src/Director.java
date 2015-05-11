@@ -7,7 +7,7 @@ public class Director {
         this.builder = builder;
     }
     public void construct(){
-        builder.makeTitle("Greeeting");
+        builder.makeTitle("Greeting");
         builder.makeString("아침과 낮에");
         builder.makeItems(new String[]{
                 "좋은 아침입니다.",
