@@ -4,4 +4,6 @@
 <li>Adapter</li>
 <li>Template Method</li>
 <li>Factory Method</li>
+<li>Singleton</li>
+<li>Prototype</li>
 </ol>
