@@ -6,4 +6,5 @@
 <li>Factory Method</li>
 <li>Singleton</li>
 <li>Prototype</li>
+<li>Builder</li>
 </ol>
