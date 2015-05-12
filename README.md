@@ -8,4 +8,5 @@
 <li>Prototype</li>
 <li>Builder</li>
 <li>Abstract Factory</li>
+<li>Bridge</li>
 </ol>
