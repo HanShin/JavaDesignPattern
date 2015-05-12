@@ -7,4 +7,5 @@
 <li>Singleton</li>
 <li>Prototype</li>
 <li>Builder</li>
+<li>Abstract Factory</li>
 </ol>
