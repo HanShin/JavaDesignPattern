@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 /**
  * Created by H2014154 on 2015-05-11.
  */
-public class HTMLBuilder extends Builder {
+public class HTMLBuilder implements Builder {
     private String filename;
     private PrintWriter writer;
 

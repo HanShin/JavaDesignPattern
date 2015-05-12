@@ -1,7 +1,7 @@
 /**
  * Created by H2014154 on 2015-05-11.
  */
-public class TextBuilder extends Builder{
+public class TextBuilder implements Builder{
     private StringBuffer buffer = new StringBuffer();
 
     @Override
