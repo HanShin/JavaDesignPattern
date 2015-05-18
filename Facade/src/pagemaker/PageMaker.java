@@ -20,9 +20,9 @@ public class PageMaker {
             writer.paragraph("메일을 기다리고 있습니다.");
             writer.mailto(mailaddr,username);
             writer.close();
-            System.out.println(filename + " is created for " + mailaddr + " (" + username + ")");
-        } catch(IOException e){
-            e.printStackTrace();
-        }
+        System.out.println(filename + " is created for " + mailaddr + " (" + username + ")");
+    } catch(IOException e){
+        e.printStackTrace();
+    }
     }
 }
