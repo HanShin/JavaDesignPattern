@@ -17,4 +17,6 @@
 <li>Facade</li>
 <li>Mediator</li>
 <li>Observer</li>
+<li>Memento</li>
+<li>State</li>
 </ol>
