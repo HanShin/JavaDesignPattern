@@ -19,4 +19,7 @@
 <li>Observer</li>
 <li>Memento</li>
 <li>State</li>
+<li>Flyweight</li>
+<li>Proxy</li>
+<li>Command</li>
 </ol>
