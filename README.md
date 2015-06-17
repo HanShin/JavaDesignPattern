@@ -5,6 +5,7 @@
 <li>Template Method</li>
 <li>Factory Method</li>
 <li>Singleton</li>
+싱글톤 패턴 구현하는 가장 좋은 방법 : 하나의 요소를 갖는 열거형 타입으로 만든다.
 <li>Prototype</li>
 <li>Builder</li>
 <li>Abstract Factory</li>
